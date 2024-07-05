@@ -15,7 +15,26 @@ Habit Tracker is a simple web application built with React that allows users to 
 - React Router: A routing library for React applications.
 - HTML5 & CSS3: Markup and styling of the application.
 - Local Storage: For storing habit data in the browser.
+
   
+## Installation
+
+1. Install Node.js *(in case you haven't installed it)*.
+2. [Download the source code](https://github.com/prem-kumar412/Habit-Tracker_React.git) and open a command prompt in the project's root folder.
+3. Install the dependencies needed for the application.
+
+```
+npm install
+```
+4. Start React project and development server.
+
+```
+npm start
+```
+
+## Libraries and tools
+
+This app was built using **Create React App**, **Redux Toolkit**, **Tailwind CSS**, **React Router**, **Redux Persist**, **React Icons**, **Recharts** and **Class Names** library.
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
